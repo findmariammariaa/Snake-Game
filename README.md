@@ -63,7 +63,3 @@ Check out the gameplay in action on our [YouTube Demo](https://youtu.be/0yA8jrbZ
 - Sleep duration adjusted based on selected mode.
 
 Enjoy the Game! 🐍
-
----
-
-Feel free to replace `/path/to/screenshot1.png` and `/path/to/screenshot2.png` with the actual paths to your screenshots. Also, update the YouTube link with the correct one for your demo video.
